@@ -101,9 +101,7 @@ All physics metrics are computed after discretizing reconstructed spins using `s
 
 ## Citation
 
-If you use this repository, please cite the associated paper:
 
-> *Inverse Generative Modeling for Temperature and Phase Inference in the 2D Ising Model from Partial and Noisy Observations*
 
 ---
 
