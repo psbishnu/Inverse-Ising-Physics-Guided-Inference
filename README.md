@@ -14,6 +14,8 @@ This repository provides code, datasets, and analysis scripts for **inverse gene
 │   ├── MCDN{L}.csv       # Noisy / masked datasets
 │   └── J5Dataset_info.csv
 │
+│
+├──J1AB.py                # Ablation study on physics guided
 ├── J5MCD.py              # Dataset generation (Wolff cluster MC)
 ├── J1DLN.py              # Inverse generative neural network model
 ├── J1COM.py              # Physics operators (E, |M|, C1, Cv)
