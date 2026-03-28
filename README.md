@@ -1,5 +1,5 @@
 [help.md](https://github.com/user-attachments/files/24615819/help.md)
-# Help Guide: Inverse Ising Generative Framework
+# Help Guide: Inverse Ising Physics Guided Framework
 
 This repository provides code, datasets, and analysis scripts for **inverse generative modeling of temperature and phase inference in the 2D Ising model under partial and noisy observations**.
 
